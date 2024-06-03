@@ -12,10 +12,6 @@ A Modern GUI Based Library Management System!
 - User-friendly GUI: Intuitive graphical user interface for user convenience.
 - Database Integration: It works with a database (SQLite3) to enable efficiently storing and recovering data.
 
-## Screenshots
-
-![Screenshot 1]()
-
 ## Requirements
 
 - Python 3.x
