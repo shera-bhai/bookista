@@ -10,7 +10,7 @@ A Modern GUI Based Library Management System!
 - Fine Calculation: Calculation of fines for retained books (Being delayed with fine calculation rules are predefined)
 - Search: finding books by title, author or subject.
 - User-friendly GUI: Intuitive graphical user interface for user convenience.
-- Database Integration: It works with a database (e.g. SQLite) to enable efficiently storing and recovering data.
+- Database Integration: It works with a database (SQLite3) to enable efficiently storing and recovering data.
 
 ## Screenshots
 
