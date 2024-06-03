@@ -14,15 +14,20 @@ A Modern GUI Based Library Management System!
 
 ## Screenshots
 
-- Login Page ![Login Page](https://github.com/shera-bhai/bookista/assets/78367273/99d3178a-8cf6-45e6-ab23-5cbd999d0281)
+- Login Page
+- ![Login Page](https://github.com/shera-bhai/bookista/assets/78367273/99d3178a-8cf6-45e6-ab23-5cbd999d0281)
 
-- Landing Page ![Landing Page](https://github.com/shera-bhai/bookista/assets/78367273/ceb3f04a-957e-42f6-b507-f25385471930)
+- Landing Page
+- ![Landing Page](https://github.com/shera-bhai/bookista/assets/78367273/ceb3f04a-957e-42f6-b507-f25385471930)
 
-- Issue Book ![Issue Book](https://github.com/shera-bhai/bookista/assets/78367273/bb2ca464-f413-4d82-bc69-21ca8dd41c89)
+- Issue Book
+- ![Issue Book](https://github.com/shera-bhai/bookista/assets/78367273/bb2ca464-f413-4d82-bc69-21ca8dd41c89)
 
-- Add Student ![Add Student](https://github.com/shera-bhai/bookista/assets/78367273/65f1834b-183a-4c00-80a7-426b85ad40db)
+- Add Student
+- ![Add Student](https://github.com/shera-bhai/bookista/assets/78367273/65f1834b-183a-4c00-80a7-426b85ad40db)
 
-- Books Available ![Books Available](https://github.com/shera-bhai/bookista/assets/78367273/6cf1ab1d-2d8c-401e-9fd1-1711a4a1e0a4)
+- Books Available
+- ![Books Available](https://github.com/shera-bhai/bookista/assets/78367273/6cf1ab1d-2d8c-401e-9fd1-1711a4a1e0a4)
 
 
 ## Requirements
